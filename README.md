@@ -2,4 +2,4 @@
 
 ## Contributors:
 - **Louis Sungwoo Cho**
-- **Lya Mun**
+
