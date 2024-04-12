@@ -1,4 +1,5 @@
-## Mobility for Our Future ITE@UIUC Transportation Project Team @ UIUC Engineering Open House 2024
+## Mobility for Our Future ITE@UIUC Transportation Project Team 
+## UIUC Engineering Open House 2024 
 
 ## Contributors:
 ### Transportation Data Science Team
