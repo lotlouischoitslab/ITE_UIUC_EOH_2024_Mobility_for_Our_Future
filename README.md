@@ -18,4 +18,4 @@
 - **Shang Sai, Urban Planning Major**
 
 ## Awards & Recognition
-- **3rd place for "Outstanding Exhibit Award**
+- **3rd place for "Outstanding Exhibit Award"**
