@@ -1,6 +1,8 @@
 ## Mobility for Our Future ITE@UIUC Transportation Project Team 
 ## UIUC Engineering Open House (EOH) 2024 
 
+## [Presentation Link](https://docs.google.com/presentation/d/171UTMMFi82cHjFccOjHWr_IUAm_sJBOc/edit?usp=sharing&ouid=104424963621704265304&rtpof=true&sd=true)
+
 ## Contributors:
 ### Transportation Data Science Team
 - **Louis Sungwoo Cho, Civil Engineering (Transportation) Major, Computer Science Minor**
